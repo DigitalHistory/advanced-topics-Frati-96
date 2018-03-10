@@ -1,7 +1,7 @@
 ## Introduction
 
 
-Many scholars have argued that public libraries are an important resources as they provide the public not only with books or access to free internet, but also with the tools necessary to succeed socially, politically or economically [(Goulding, 3-5)](http://journals.sagepub.com/doi/pdf/10.1177/0961000604042965). However, in the city of Toronto, the development of the public library system has privileged certain geographical areas -- while neglecting others -- thus contributing to a clear social gap. **As a result, this essay will first provide a brief history of this institution and argue that the uneven dispersal of Toronto Public Library Branches throughout the 20th century has been harmful to its overarching purposes.**
+Many scholars have argued that public libraries are an important resource as they provide the public not only with books or access to free internet, but also with the tools necessary to succeed socially, politically or economically [(Goulding, 3-5)](http://journals.sagepub.com/doi/pdf/10.1177/0961000604042965). However, in the city of Toronto, the development of the public library system has privileged certain geographical areas -- while neglecting others -- thus contributing to a clear social gap. **As a result, this essay will first provide a brief history of this institution and argue that the uneven dispersal of Toronto Public Library Branches throughout the 20th century has been harmful to its overarching purposes.**
 
 
 <a id="#one"></a>
@@ -55,4 +55,4 @@ This essay has demonstrated that the spatial history of the Toronto Public Libra
 [Careless, James Maurice Stockford. "Toronto". The Canadian Encyclopedia.Toronto: Historica Canada, 2013. Web. 18 Mar 2013.](http://www.thecanadianencyclopedia.ca/en/article/toronto/)
 
 
-[For more about Anthony Frati, click the text.](https://www.linkedin.com/in/anthony-frati-664a14a0/) 
+[For more about Anthony Frati, click the text.](https://www.linkedin.com/in/anthony-frati-664a14a0/)
