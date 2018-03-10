@@ -9,13 +9,15 @@
 
 /* add any styling for the main div here */
 div.container {
+  color:white;
+  padding-bottom: 10%;
 }
 
 div#mapcontainer {
   font-family:Arial, sans-serif;
   font-size:11px;
   border:6px double #5E5C63;
-  width:66%;
+  width:80%;
   float:left;
 }
 
@@ -32,12 +34,21 @@ have to add some extra css to the mapcontainer div */
 div#map_legend {
     max-width:30%;
     float:left;
+    background-color:#4682B4;
+    height:82%;
 }
 
 /* if you want, you can make the text in the legend less ugly by adding
 extra css classes. Advisable! */
-div#map_legend h1, div#map_legend h3 {
+div#map_legend h1 {
+font-size: 145%;
+color:black;
 
+}
+div#map_legend h3 {
+  float:centre;
+  text-decoration: underline;
+  color:black;
 }
 
 // make it obvious that the legend text is clickable
@@ -57,10 +68,10 @@ button.rounded {
   border: 1px black solid;
 }
 button#hide {
-  background:orange;
+  background:red;
 }
 button#show {
-  background:green;
+  background:blue;
 }
 
 /* use these last three to style the text inside the
@@ -70,7 +81,9 @@ button#show {
 */
 
 div#map_canvas h1 {
-
+font-size:medium;
+color:black;
+font-family:arial;
 }
 
 div.address  {
@@ -83,6 +96,7 @@ div.description {
 
 div.gm-style-iw {
     max-height: 75px;
+    background-color:grey;
 }
 div.gm-style-iw img {
     max-width: 75% !important;
@@ -117,4 +131,3 @@ div.gm-style-iw blockquote {
    background-color: #F4F4F4;
    padding: 10px;
 }
-
