@@ -66,56 +66,56 @@ function initializeMap() {
               map: my_map,
               icon: blueURL, // this sets the image that represents the marker in the map
               title: "College and Shaw Branch",
-              window_content: '<h1>2. College and Shaw</h1>'
+              window_content: '<h1>2. College and Shaw</h1><p></p>'
             },
             {position: new google.maps.LatLng(43.6599082, -79.4339883),
              map: my_map,
              icon: blueURL, // this sets the image that represents the marker in the map
              title: "Bloor and Gladstone Branch",
-             window_content: '<h1>3. Bloor and Gladstone</h1>'
+             window_content: '<h1>3. Bloor and Gladstone</h1><p></p>'
            },
            {position: new google.maps.LatLng(43.6651079, -79.414157),
             map: my_map,
             icon: blueURL, // this sets the image that represents the marker in the map
             title: "Palmerston Branch",
-            window_content: "<h1>4. Palmerston</h1>"
+            window_content: "<h1>4. Palmerston</h1><p></p>"
            },
            {position: new google.maps.LatLng(43.6579592,-79.3984473),
            map: my_map,
            icon: blueURL, // this sets the image that represents the marker in the map
            title: "Lilian H. Smith Branch",
-           window_content: '<h1>5. Lilian H. Smith</h1>'
+           window_content: '<h1>5. Lilian H. Smith</h1><p></p>'
            },
            {position: new google.maps.LatLng(43.7588983, -79.5072947),
              map: my_map,
              icon: redURL, // this sets the image that represents the marker in the map to the one
                             // located at the URL which is given by the variable blueURL, see above
              title: "York Woods Branch",
-             window_content: "<h1>6. York Woods</h1>"
+             window_content: "<h1>6. York Woods</h1><p></p>"
             },
             {position: new google.maps.LatLng(43.73997, -79.5100961),
              map: my_map,
              icon: redURL, // this sets the image that represents the marker in the map
              title: "Jane and Sheppard Branch",
-             window_content: "<h1>7. Jane and Sheppard</h1>"
+             window_content: "<h1>7. Jane and Sheppard</h1><p></p>"
            },
            {position: new google.maps.LatLng(43.739727, -79.5384661),
             map: my_map,
             icon: redURL, // this sets the image that represents the marker in the map
             title: "Woodview Park Branch",
-            window_content: '<h1>8. Woodview Park</h1>'
+            window_content: '<h1>8. Woodview Park</h1><p></p>'
           },
           {position: new google.maps.LatLng(43.721536, -79.5113021),
            map: my_map,
            icon: redURL, // this sets the image that represents the marker in the map
            title: "Black Creek Branch",
-           window_content: "<h1>9. Black Creek</h1>"
+           window_content: "<h1>9. Black Creek</h1><p></p>"
           },
           {position: new google.maps.LatLng(43.7288382, -79.4820164),
           map: my_map,
           icon: redURL, // this sets the image that represents the marker in the map
           title: "Downsview Branch",
-          window_content: '<h1>10. Downsview</h1><p>    </p>'
+          window_content: '<h1>10. Downsview</h1><p></p>'
           }
             ];
 
@@ -151,7 +151,7 @@ function initializeMap() {
     document.getElementById("map_legend").innerHTML = legendHTML;
   my_map.data.addGeoJson(myGeoJSON);
 
-  var romeCircle = new google.maps.Rectangle({
+  var nwCircle = new google.maps.Circle({
     strokeColor: '#FF0000',
     strokeOpacity: 0.8,
     strokeWeight: 2,
@@ -160,15 +160,22 @@ function initializeMap() {
     // in general, we always have to *set the map* when we
     // add features.
     map: my_map,
-    bounds: {
-      north: 42.685,
-      south: 40.671,
-      east: 12.501,
-      west: 12.485
-    },
 
-    center: {"lat": 41.9000, "lng":12.5000},
-    radius: 1000
+    center: {"lat": 43.74650, "lng":-79.5100961},
+    radius: 3000
+  });
+  var dCircle = new google.maps.Circle({
+    strokeColor: 'blue',
+    strokeOpacity: 0.8,
+    strokeWeight: 2,
+    fillColor: 'blue',
+    fillOpacity: 0.35,
+    // in general, we always have to *set the map* when we
+    // add features.
+    map: my_map,
+
+    center: {"lat": 43.664021, "lng":-79.413925},
+    radius: 1750
   });
   my_map.data.setStyle(function (feature) {
     var thisColor = feature.getProperty("myColor");
