@@ -1,6 +1,4 @@
-# Your Title should go in the appropriate place in `index.html`, not here! Title is itself set only in the `<head>` element
 
-## Use headings only if you want to have subsections in your essay
 
 <div class="sidepanel">
               <!-- This is the div where all the popcorn action will hapen -->
@@ -8,26 +6,30 @@
               </div>
             </div>
 
+[**CLICK HERE TO ACCESS THE STORYCORP'S WEBPAGE**](https://storycorps.org/listen/joe-galloway-and-vince-cantu-180224/)
 
+## Introduction
+Joe Galloway and Vince Cantu’s experiences fighting in the Vietnam War during the 1960s continues to plague their psychological well-being [(Moffitt, 2018)](https://storycorps.org/listen/joe-galloway-and-vince-cantu-180224/). In particular, the scenes of violence, death and destruction which each of the men had been subjected to throughout their service has not left their memory, but rather is ever-present; indeed, although the war made significant economic, political and social impacts on the United States and Canada, it also had tremendous personal effects on those directly involved as well[(Levant, 2011)](http://www.thecanadianencyclopedia.ca/en/article/vietnam-war/). **Thus, this essay will first provide a brief historical background of the Vietnam War and argue that the brutality involved has and continues to psychological effect those who survived.**
+## A Brief History of the Vietnam War
+After the end of the Second World War, the leader of North Vietnam – Ho Chi Minh – sought to unify the entire country under communism[(Levant, 2011)](http://www.thecanadianencyclopedia.ca/en/article/vietnam-war/). Subsequently, in the late 1950s to the mid 1970’s, the United States provided military support to South Vietnam in an attempt to stop the “spreading of communism in Southeast Asia” while Canada mostly supplied medical aid[(Levant, 2011)](http://www.thecanadianencyclopedia.ca/en/article/vietnam-war/). Indeed, the war, in addition to yielding countless causalities on either side, had an “indirect cost” of almost $900 billion and also fueled many protests as many American and Canadian citizens greatly opposed the war effort[(Levant, 2011)](http://www.thecanadianencyclopedia.ca/en/article/vietnam-war/). Overall, despite these impacts, in 1975, the United States and Canada withdrew from the war as the Northern Vietnamese Army had been successful in capturing South Vietnam[(Levant, 2011)](http://www.thecanadianencyclopedia.ca/en/article/vietnam-war/).
+## The Psychological Effects of the Vietnam War
+The horrors and violence associated with the Vietnam war continue to negatively impact the psychological well-being of those who survived. According to Terence M. Keane et al, a 1981 study revealed that roughly “16-35% of the 2.8 million Americans who served in Vietnam were suffering from significant psychological problems as a result of their combat exposure”[(Keane et al, 9)](https://www.researchgate.net/profile/Terence_Keane/publication/232496487_A_behavioral_formulation_of_Postraumatic_Stress_Disorder_in_Vietnam_veterans/links/5571a40408ae6d917bc4e5b6.pdf). He relates that many suffered from a condition called “PTSD” which is linked to “depression,” “anxiety”, “intrusive recollections,” “flashbacks” and “startled responses”[(Keane et al, 9)](https://www.researchgate.net/profile/Terence_Keane/publication/232496487_A_behavioral_formulation_of_Postraumatic_Stress_Disorder_in_Vietnam_veterans/links/5571a40408ae6d917bc4e5b6.pdf). As a result, from the podcast attached above, -- which was recorded in February of 2018 -- it is evident that Joe and Vince also continue to feel the psychological impacts of their experiences in combat. Specifically, Joe relates that during the three day battle in “Ia Drang,” they had killed roughly “1500” enemy soldiers <a href="#" onclick="javascript:seek(67)"> (Galloway and Cantu, 1:07)</a>. Subsequently, he then goes on state: “It is very hard explaining war and combat to civilians. The smell of blood in large quantities. The smell of napalm. People burning in front of your eyes”<a href="#" onclick="javascript:seek(76)">(1:16)</a>.The long pauses throughout this excerpt in the audio, along with the horrific descriptions of war – “smell of blood…napalm…people burning” – demonstrates that the events of the war continue to have significant psychological effects on these men. Although they may not have clinical “PTSD”, it is evident that their clear memory of both witnessing and committing acts of extreme violence, along with their tone throughout, signal emotional strain.
 
-Add your content here, including _markup_ of **various kinds**. Now you can just write! But you should be aware of a couple of advanced features of markdown:
-- you can embed HTML directly n a markdown file. This is great if you want to add complex attributes like **classes**, e.g. to your `img` tags so that they display properly.
-  - another use of embedded HTML is for funky javascript function links. I've written a simple function that will seek to a particular time code in seconds.  You can call it like this: `<a href="javascript:seek(75)">seek to 1:15</a>`, but `[seek to 1:15](javascript:seek(75))` won't render properly, so you have to type the whole linke in, as seen here: <a href="#" onclick="javascript:seek(75)"> seek to 1:15</a>.
-  - also, Remarkable supports pandoc-style footnotes, which can be helpful sometimes. Here are some examples of footnotes at work:
+In addition, the psychological effects of the war can also be seen in Vince’s final depiction of his life after leaving Vietnam. Specifically, although he was able to finally pick “up a rifle” <a href="#" onclick="javascript:seek(98)">(1:38)</a> 15 years after returning home, he relates that he continues to “pray for the ones I put down” <a href="#" onclick="javascript:seek(107)">(1:47)</a>. Indeed, as in the previous example, the pauses and crackling tone in Vince’s voice while relating his prayers to “the ones” he “put down” demonstrates that the brutality of the war continues to emotionally and psychologically effect him. Like many other veterans, he is unable to simply forget or ignore these events, but rather is constantly reminded of the horrors he faced. As a result, the Vietnam War was not simply impactful on the political, economic or social climate of the United States and Canada, but has also had long lasting psychological and emotional impacts on those who participated; with this in mind, it is important to realize that large scale historical events such as the Vietnam War – and other wars for that matter – cannot be characterized simply in terms of politics or economics, but also need to be understood through their personal impacts on the individuals who were both directly and also indirectly involved. <a href="#" onclick="javascript:seek(127)">(2:07</a> <a href="#" onclick="javascript:seek(65)">and 1:05)</a>
 
-    Footnote 1 link[^first].
+## Conclusion
+**This essay, apart from providing a brief historical background of the Vietnam War, has also demonstrated that the psychological effects on those who survived continues to permeate to the present day.** Indeed, listening to Joe and Vince's oral testimony provides a deeper and more personal understanding of the Vietnam war that would not be present in a written text. Specifically, the distinct auditory elements of this podcast -- namely, the long pauses and crackling of voices -- demonstrate the "social meaning" [(Thompson, 28)](https://search.library.utoronto.ca/details?3716543&uuid=d28c273c-3742-4756-bfac-f0fc5789152a) or, in other words, the personal implications of this brutal event; unlike an [encyclopedia entry](http://www.thecanadianencyclopedia.ca/en/article/vietnam-war/) or [journal article,](https://www.researchgate.net/profile/Terence_Keane/publication/232496487_A_behavioral_formulation_of_Postraumatic_Stress_Disorder_in_Vietnam_veterans/links/5571a40408ae6d917bc4e5b6.pdf) this audio file allows the listener to understand the emotional and psychological impacts of war on survivors in a much more intimate way.
 
-    Footnote 2 link[^second].
+## Works Cited
 
-    Inline footnote^[Text of inline footnote] definition.
+[Keane, M. Terence et al. "A Behavioral Formulation of Posttraumatic Stress Disorder in Vietnam Veterans." *The Behaviour Therapist*, 8.1 (1985): 9. GOOGLE SCHOLAR. Web. March 24, 2018.](https://www.researchgate.net/profile/Terence_Keane/publication/232496487_A_behavioral_formulation_of_Postraumatic_Stress_Disorder_in_Vietnam_veterans/links/5571a40408ae6d917bc4e5b6.pdf)
 
-    Duplicated footnote reference[^second].
+[Levant, Victor. "Vietnam War". The Canadian Encyclopedia. Toronto: Historica Canada, 2011. Web. 14 Nov 2011.](http://www.thecanadianencyclopedia.ca/en/article/vietnam-war/)
 
-you can learn more about remarkable on [its github page](https://github.com/jonschlinkert/remarkable), and get a fuller sense of the syntax [in the online demo](https://jonschlinkert.github.io/remarkable/demo/)
+[Thompson, Paul. *The Voice of the Past.* Toronto: Oxford University Press, 1978.](https://search.library.utoronto.ca/details?3716543&uuid=d28c273c-3742-4756-bfac-f0fc5789152a)
 
+[Moffitt, Kelly. "Joe Galloway and Vince Cantu." *StoryCorps.org*, StoryCorps Inc. February 24, 2018. Accessed March 24, 2018.](https://storycorps.org/listen/joe-galloway-and-vince-cantu-180224/)
 
-[^first]: Footnote **can have markup**
+[Hircshman et al. "Vietnamese Casualties During the American War: A New Estimate." *Population and Development Review,* 21.4 (Dec 1995): 808-809. JSTOR. Web. March 24, 2018.](http://faculty.washington.edu/charles/new%20PUBS/A77.pdf)
 
-    and multiple paragraphs.
-
-[^second]: Footnote text.
+[Vermetten et al. "Ptsd and Vietnam Veterans." *Science, New Series*, 315.5089 (2007): 184. JSTOR. Web. March 24, 2018.](http://www.jstor.org.myaccess.library.utoronto.ca/stable/pdf/20035182.pdf?refreqid=search:48d28841c218d4b88332f9c30f01356)

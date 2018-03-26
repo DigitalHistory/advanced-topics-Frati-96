@@ -14,10 +14,18 @@ var loadPopcorn = function () {
   // popcorn events are accomplished with plugins.
   // "footnote" is a somewhat misleading name. It actually just
   // pops up some text, starting at 30 seconds
+  pop.image({
+    start: 0,
+    end: 12,
+    src:"http://wearethemighty.wpengine.netdna-cdn.com/wp-content/uploads/2016/01/women-soldiers.jpg",
+    text: "The History of Women in the U.S Military",
+    target: "popcorn-container"
+  });
+
   pop.footnote({
-    start: 30,
-    end: 50,
-    text: "The Verrazano-Narrows bridge looks cool!",
+    start: 99,
+    end: 88,
+    text: "The History of Women in the U.S Military",
     target: "popcorn-container"
   });
   pop.footnote({
@@ -26,20 +34,20 @@ var loadPopcorn = function () {
     text: "Second Footnote!",
     target: "popcorn-container"
   });
-  
+
 
   // this event, which is the first one you see, is a little more complicated,
   // because it is running a complex plugin: google maps.
-  pop.googlemap({     // run the googlemap plugin; note the open paren followed by open bracket
-    "start":0,   // what time, IN SECONDS, to start showing this information 
-    "end":30,     // what time to stop
-    "target":"popcorn-container", // where to display -- don't forget this!
-    type: "HYBRID", //HYBRID (default), ROADMAP, SATELLITE, TERRAIN, STREETVIEW,
-    //lat: 43.665429,
-    //lng: -79.403323,
-    location: "Verrazano-Narrows bridge", //  The location we want our map to display at
-    zoom: 15 // Setting the zoom that we would like 
-  });  // don't forget to close your brackets
+ // pop.googlemap({     // run the googlemap plugin; note the open paren followed by open bracket
+ //    "start":0,   // what time, IN SECONDS, to start showing this information
+ //    "end":30,     // what time to stop
+ //    "target":"popcorn-container", // where to display -- don't forget this!
+ //    type: "HYBRID", //HYBRID (default), ROADMAP, SATELLITE, TERRAIN, STREETVIEW,
+ //    //lat: 43.665429,
+ //    //lng: -79.403323,
+ //    location: "Verrazano-Narrows bridge", //  The location we want our map to display at
+ //    zoom: 15 // Setting the zoom that we would like
+ //  });  // don't forget to close your brackets //
 
   // this uses the Wikipedia plugin
   pop.wikipedia({
@@ -59,13 +67,13 @@ var loadPopcorn = function () {
 
   // and, obviously, the image plugin
   pop.image({
-    start: 121,
-    end: 180,
-    src:"http://www.theblaze.com/wp-content/uploads/2013/03/steel-worker-2-620x432.jpg",
-    text: "resting",
+    start: 0,
+    end: 12,
+    src:"https://i.pinimg.com/originals/ff/37/9a/ff379aa3a8d5eec2fbb24c13bb8690a5.jpg",
+    text: "",
     target: "popcorn-container"
   });
-  
+
   pop.footnote({
     start: 121,
     end: 600,

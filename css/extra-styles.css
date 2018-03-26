@@ -110,6 +110,10 @@ div.gm-style-iw blockquote {
 /* Here's some adidtional CSS for the oral history project.  */
 
 /* AUDIO PLAYER */
+div#contentdiv {
+  color: white;
+}
+
 #media {
     border: 4px solid #880000;
     width: 100%;
@@ -121,13 +125,19 @@ div.gm-style-iw blockquote {
 .sidepanel {
    margin: 15px;
    float: right;
+   color: black;
+}
+
+.sidepanel img {
+  width: 100%;
+  height: 100%;
 }
 
 #popcorn-container {
    border: 4px solid #aa0000;
-   width: 425px;
-   height: 640px;
-   overflow: scroll;
+   width: 440px;
+   height: 400px;
+   overflow: auto;
    background-color: #F4F4F4;
    padding: 10px;
 }
